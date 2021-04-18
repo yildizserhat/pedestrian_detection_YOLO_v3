@@ -1,0 +1,1114 @@
+Total BFLOPS 62.669 
+
+ seen 64 
+Processing folder input=./data/obj/ and output=./data/output/
+Processing ./data/obj/person_and_bike_092.png
+./data/obj/person_and_bike_092.png: Predicted in 20330.862000 milli-seconds.
+Insan: 51%
+Processing ./data/obj/person_and_bike_014.png
+./data/obj/person_and_bike_014.png: Predicted in 9311.281000 milli-seconds.
+Insan: 92%
+Insan: 65%
+Processing ./data/obj/crop001688.png
+./data/obj/crop001688.png: Predicted in 9777.745000 milli-seconds.
+Processing ./data/obj/person_347.png
+./data/obj/person_347.png: Predicted in 9483.245000 milli-seconds.
+Insan: 96%
+Insan: 94%
+Processing ./data/obj/person_071.png
+./data/obj/person_071.png: Predicted in 9698.258000 milli-seconds.
+Insan: 91%
+Processing ./data/obj/person_137.png
+./data/obj/person_137.png: Predicted in 9643.485000 milli-seconds.
+Insan: 75%
+Insan: 90%
+Insan: 92%
+Insan: 94%
+Insan: 93%
+Processing ./data/obj/crop_000604.png
+./data/obj/crop_000604.png: Predicted in 9615.837000 milli-seconds.
+Insan: 77%
+Insan: 26%
+Processing ./data/obj/person_096.png
+./data/obj/person_096.png: Predicted in 9636.756000 milli-seconds.
+Insan: 91%
+Insan: 82%
+Insan: 81%
+Processing ./data/obj/person_and_bike_140.png
+./data/obj/person_and_bike_140.png: Predicted in 9646.672000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop001544.png
+./data/obj/crop001544.png: Predicted in 9634.877000 milli-seconds.
+Insan: 96%
+Insan: 86%
+Insan: 92%
+Processing ./data/obj/person_098.png
+./data/obj/person_098.png: Predicted in 9742.466000 milli-seconds.
+Insan: 29%
+Insan: 95%
+Insan: 95%
+Processing ./data/obj/person_115.png
+./data/obj/person_115.png: Predicted in 10230.091000 milli-seconds.
+Insan: 90%
+Insan: 96%
+Insan: 94%
+Processing ./data/obj/crop001566.png
+./data/obj/crop001566.png: Predicted in 10078.151000 milli-seconds.
+Insan: 95%
+Insan: 86%
+Processing ./data/obj/person_055.png
+./data/obj/person_055.png: Predicted in 9347.382000 milli-seconds.
+Insan: 75%
+Processing ./data/obj/person_323.png
+./data/obj/person_323.png: Predicted in 9416.385000 milli-seconds.
+Insan: 95%
+Insan: 88%
+Processing ./data/obj/person_164.png
+./data/obj/person_164.png: Predicted in 9543.209000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop001670.png
+./data/obj/crop001670.png: Predicted in 9831.871000 milli-seconds.
+Insan: 94%
+Insan: 89%
+Insan: 93%
+Insan: 93%
+Insan: 93%
+Processing ./data/obj/person_059.png
+./data/obj/person_059.png: Predicted in 9466.594000 milli-seconds.
+Insan: 61%
+Processing ./data/obj/person_198.png
+./data/obj/person_198.png: Predicted in 9259.877000 milli-seconds.
+Insan: 93%
+Insan: 96%
+Processing ./data/obj/person_335.png
+./data/obj/person_335.png: Predicted in 9604.210000 milli-seconds.
+Insan: 92%
+Insan: 88%
+Insan: 95%
+Processing ./data/obj/person_207.png
+./data/obj/person_207.png: Predicted in 9372.440000 milli-seconds.
+Insan: 91%
+Insan: 92%
+Insan: 90%
+Processing ./data/obj/crop001716.png
+./data/obj/crop001716.png: Predicted in 9238.157000 milli-seconds.
+Insan: 94%
+Insan: 93%
+Processing ./data/obj/person_012.png
+./data/obj/person_012.png: Predicted in 9304.698000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_038.png
+./data/obj/person_and_bike_038.png: Predicted in 9274.863000 milli-seconds.
+Insan: 45%
+Insan: 89%
+Insan: 86%
+Insan: 93%
+Processing ./data/obj/person_and_bike_044.png
+./data/obj/person_and_bike_044.png: Predicted in 9288.619000 milli-seconds.
+Insan: 91%
+Processing ./data/obj/person_008.png
+./data/obj/person_008.png: Predicted in 9457.176000 milli-seconds.
+Insan: 80%
+Processing ./data/obj/person_280.png
+./data/obj/person_280.png: Predicted in 9347.606000 milli-seconds.
+Insan: 96%
+Insan: 92%
+Insan: 80%
+Processing ./data/obj/crop_000017.png
+./data/obj/crop_000017.png: Predicted in 9258.137000 milli-seconds.
+Insan: 90%
+Processing ./data/obj/person_204.png
+./data/obj/person_204.png: Predicted in 9244.869000 milli-seconds.
+Insan: 95%
+Insan: 89%
+Insan: 96%
+Insan: 93%
+Insan: 93%
+Processing ./data/obj/person_and_bike_110.png
+./data/obj/person_and_bike_110.png: Predicted in 9341.678000 milli-seconds.
+Insan: 85%
+Processing ./data/obj/crop001718.png
+./data/obj/crop001718.png: Predicted in 9306.938000 milli-seconds.
+Insan: 27%
+Insan: 94%
+Insan: 94%
+Insan: 90%
+Processing ./data/obj/crop_000006.png
+./data/obj/crop_000006.png: Predicted in 9250.055000 milli-seconds.
+Insan: 74%
+Processing ./data/obj/crop_000024.png
+./data/obj/crop_000024.png: Predicted in 9187.125000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop001676.png
+./data/obj/crop001676.png: Predicted in 9309.655000 milli-seconds.
+Insan: 92%
+Insan: 77%
+Insan: 83%
+Insan: 34%
+Processing ./data/obj/person_064.png
+./data/obj/person_064.png: Predicted in 9282.019000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/crop001659.png
+./data/obj/crop001659.png: Predicted in 9405.361000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/person_029.png
+./data/obj/person_029.png: Predicted in 9225.295000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/person_and_bike_101.png
+./data/obj/person_and_bike_101.png: Predicted in 9252.669000 milli-seconds.
+Insan: 66%
+Processing ./data/obj/person_011.png
+./data/obj/person_011.png: Predicted in 9499.078000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/crop001724.png
+./data/obj/crop001724.png: Predicted in 9385.498000 milli-seconds.
+Insan: 91%
+Insan: 95%
+Processing ./data/obj/person_and_bike_149.png
+./data/obj/person_and_bike_149.png: Predicted in 9270.474000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/person_and_bike_046.png
+./data/obj/person_and_bike_046.png: Predicted in 9357.311000 milli-seconds.
+Insan: 28%
+Processing ./data/obj/crop_000020.png
+./data/obj/crop_000020.png: Predicted in 9376.384000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop_000015.png
+./data/obj/crop_000015.png: Predicted in 9375.324000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/crop001631.png
+./data/obj/crop001631.png: Predicted in 9297.834000 milli-seconds.
+Insan: 93%
+Insan: 93%
+Processing ./data/obj/person_034.png
+./data/obj/person_034.png: Predicted in 9246.606000 milli-seconds.
+Insan: 87%
+Processing ./data/obj/person_and_bike_051.png
+./data/obj/person_and_bike_051.png: Predicted in 9478.413000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/person_007.png
+./data/obj/person_007.png: Predicted in 9363.110000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/person_336.png
+./data/obj/person_336.png: Predicted in 9380.810000 milli-seconds.
+Insan: 58%
+Insan: 85%
+Insan: 75%
+Insan: 30%
+Insan: 95%
+Insan: 95%
+Processing ./data/obj/person_217.png
+./data/obj/person_217.png: Predicted in 9324.389000 milli-seconds.
+Insan: 92%
+Insan: 93%
+Insan: 95%
+Insan: 92%
+Insan: 95%
+Processing ./data/obj/person_and_bike_052.png
+./data/obj/person_and_bike_052.png: Predicted in 9390.880000 milli-seconds.
+Insan: 82%
+Processing ./data/obj/crop001722.png
+./data/obj/crop001722.png: Predicted in 9768.879000 milli-seconds.
+Insan: 27%
+Processing ./data/obj/crop001555.png
+./data/obj/crop001555.png: Predicted in 9448.565000 milli-seconds.
+Insan: 94%
+Insan: 93%
+Insan: 91%
+Insan: 94%
+Processing ./data/obj/person_and_bike_094.png
+./data/obj/person_and_bike_094.png: Predicted in 9319.928000 milli-seconds.
+Insan: 88%
+Processing ./data/obj/crop_000005.png
+./data/obj/crop_000005.png: Predicted in 9422.090000 milli-seconds.
+Insan: 88%
+Insan: 93%
+Processing ./data/obj/crop001546.png
+./data/obj/crop001546.png: Predicted in 9259.332000 milli-seconds.
+Insan: 48%
+Insan: 89%
+Processing ./data/obj/person_and_bike_012.png
+./data/obj/person_and_bike_012.png: Predicted in 9268.542000 milli-seconds.
+Insan: 90%
+Insan: 93%
+Insan: 94%
+Processing ./data/obj/person_and_bike_097.png
+./data/obj/person_and_bike_097.png: Predicted in 9193.170000 milli-seconds.
+Insan: 73%
+Processing ./data/obj/crop001590.png
+./data/obj/crop001590.png: Predicted in 9242.681000 milli-seconds.
+Insan: 63%
+Processing ./data/obj/person_and_bike_060.png
+./data/obj/person_and_bike_060.png: Predicted in 9240.233000 milli-seconds.
+Insan: 71%
+Processing ./data/obj/person_and_bike_076.png
+./data/obj/person_and_bike_076.png: Predicted in 9306.490000 milli-seconds.
+Insan: 95%
+Insan: 94%
+Processing ./data/obj/person_and_bike_059.png
+./data/obj/person_and_bike_059.png: Predicted in 9259.750000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_127.png
+./data/obj/person_127.png: Predicted in 9287.750000 milli-seconds.
+Insan: 57%
+Insan: 92%
+Insan: 95%
+Processing ./data/obj/person_138.png
+./data/obj/person_138.png: Predicted in 9284.495000 milli-seconds.
+Insan: 96%
+Insan: 95%
+Insan: 94%
+Processing ./data/obj/crop001607.png
+./data/obj/crop001607.png: Predicted in 9269.260000 milli-seconds.
+Insan: 88%
+Insan: 94%
+Insan: 91%
+Insan: 62%
+Insan: 71%
+Insan: 71%
+Insan: 80%
+Insan: 91%
+Processing ./data/obj/person_206.png
+./data/obj/person_206.png: Predicted in 9167.146000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/crop_000008.png
+./data/obj/crop_000008.png: Predicted in 9235.239000 milli-seconds.
+Insan: 91%
+Processing ./data/obj/person_095.png
+./data/obj/person_095.png: Predicted in 9261.927000 milli-seconds.
+Insan: 92%
+Insan: 85%
+Processing ./data/obj/person_026.png
+./data/obj/person_026.png: Predicted in 9166.206000 milli-seconds.
+Insan: 97%
+Processing ./data/obj/person_and_bike_062.png
+./data/obj/person_and_bike_062.png: Predicted in 9292.675000 milli-seconds.
+Insan: 29%
+Processing ./data/obj/person_and_bike_048.png
+./data/obj/person_and_bike_048.png: Predicted in 9194.985000 milli-seconds.
+Insan: 75%
+Processing ./data/obj/person_263.png
+./data/obj/person_263.png: Predicted in 9362.236000 milli-seconds.
+Insan: 95%
+Insan: 88%
+Insan: 92%
+Processing ./data/obj/crop001683.png
+./data/obj/crop001683.png: Predicted in 9268.952000 milli-seconds.
+Insan: 94%
+Insan: 95%
+Processing ./data/obj/crop_000016.png
+./data/obj/crop_000016.png: Predicted in 9216.582000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_and_bike_029.png
+./data/obj/person_and_bike_029.png: Predicted in 9346.488000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/person_350.png
+./data/obj/person_350.png: Predicted in 9204.314000 milli-seconds.
+Insan: 72%
+Insan: 50%
+Processing ./data/obj/person_093.png
+./data/obj/person_093.png: Predicted in 9260.285000 milli-seconds.
+Insan: 96%
+Insan: 95%
+Processing ./data/obj/person_092.png
+./data/obj/person_092.png: Predicted in 9253.687000 milli-seconds.
+Insan: 61%
+Insan: 96%
+Processing ./data/obj/person_212.png
+./data/obj/person_212.png: Predicted in 9219.825000 milli-seconds.
+Insan: 35%
+Processing ./data/obj/person_037.png
+./data/obj/person_037.png: Predicted in 9266.815000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/person_and_bike_102.png
+./data/obj/person_and_bike_102.png: Predicted in 9204.099000 milli-seconds.
+Insan: 64%
+Processing ./data/obj/crop001639.png
+./data/obj/crop001639.png: Predicted in 9248.326000 milli-seconds.
+Insan: 86%
+Insan: 95%
+Insan: 94%
+Processing ./data/obj/person_087.png
+./data/obj/person_087.png: Predicted in 9133.177000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/person_and_bike_004.png
+./data/obj/person_and_bike_004.png: Predicted in 9198.430000 milli-seconds.
+Insan: 97%
+Processing ./data/obj/person_and_bike_055.png
+./data/obj/person_and_bike_055.png: Predicted in 9820.539000 milli-seconds.
+Insan: 28%
+Processing ./data/obj/crop_000025.png
+./data/obj/crop_000025.png: Predicted in 9225.634000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/person_251.png
+./data/obj/person_251.png: Predicted in 9186.161000 milli-seconds.
+Insan: 91%
+Insan: 94%
+Insan: 62%
+Processing ./data/obj/person_120.png
+./data/obj/person_120.png: Predicted in 9231.218000 milli-seconds.
+Insan: 97%
+Insan: 97%
+Processing ./data/obj/person_038.png
+./data/obj/person_038.png: Predicted in 9208.630000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/person_and_bike_083.png
+./data/obj/person_and_bike_083.png: Predicted in 9183.245000 milli-seconds.
+Insan: 83%
+Processing ./data/obj/person_014.png
+./data/obj/person_014.png: Predicted in 9456.649000 milli-seconds.
+Insan: 87%
+Insan: 93%
+Processing ./data/obj/crop001531.png
+./data/obj/crop001531.png: Predicted in 9371.120000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_161.png
+./data/obj/person_161.png: Predicted in 9282.142000 milli-seconds.
+Processing ./data/obj/person_033.png
+./data/obj/person_033.png: Predicted in 9266.099000 milli-seconds.
+Insan: 36%
+Insan: 79%
+Processing ./data/obj/crop001573.png
+./data/obj/crop001573.png: Predicted in 9223.989000 milli-seconds.
+Insan: 90%
+Insan: 91%
+Insan: 76%
+Insan: 63%
+Insan: 92%
+Processing ./data/obj/person_and_bike_165.png
+./data/obj/person_and_bike_165.png: Predicted in 9549.105000 milli-seconds.
+Insan: 85%
+Processing ./data/obj/person_230.png
+./data/obj/person_230.png: Predicted in 9509.573000 milli-seconds.
+Insan: 88%
+Insan: 94%
+Insan: 93%
+Insan: 95%
+Processing ./data/obj/person_and_bike_190.png
+./data/obj/person_and_bike_190.png: Predicted in 9257.490000 milli-seconds.
+Insan: 96%
+Insan: 95%
+Processing ./data/obj/person_and_bike_061.png
+./data/obj/person_and_bike_061.png: Predicted in 9221.022000 milli-seconds.
+Insan: 90%
+Processing ./data/obj/person_325.png
+./data/obj/person_325.png: Predicted in 9252.283000 milli-seconds.
+Insan: 94%
+Insan: 95%
+Processing ./data/obj/person_and_bike_081.png
+./data/obj/person_and_bike_081.png: Predicted in 9290.977000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/person_and_bike_079.png
+./data/obj/person_and_bike_079.png: Predicted in 9288.567000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_247.png
+./data/obj/person_247.png: Predicted in 9216.219000 milli-seconds.
+Insan: 91%
+Insan: 95%
+Processing ./data/obj/person_056.png
+./data/obj/person_056.png: Predicted in 9484.847000 milli-seconds.
+Insan: 80%
+Processing ./data/obj/person_and_bike_045.png
+./data/obj/person_and_bike_045.png: Predicted in 9218.390000 milli-seconds.
+Insan: 89%
+Processing ./data/obj/crop_000004.png
+./data/obj/crop_000004.png: Predicted in 9239.695000 milli-seconds.
+Insan: 91%
+Insan: 30%
+Processing ./data/obj/person_030.png
+./data/obj/person_030.png: Predicted in 9226.163000 milli-seconds.
+Insan: 59%
+Insan: 63%
+Processing ./data/obj/crop001638.png
+./data/obj/crop001638.png: Predicted in 9304.606000 milli-seconds.
+Insan: 96%
+Insan: 95%
+Insan: 87%
+Processing ./data/obj/person_306.png
+./data/obj/person_306.png: Predicted in 9388.422000 milli-seconds.
+Insan: 92%
+Insan: 96%
+Insan: 56%
+Processing ./data/obj/person_062.png
+./data/obj/person_062.png: Predicted in 9274.555000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_066.png
+./data/obj/person_and_bike_066.png: Predicted in 9407.105000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/person_194.png
+./data/obj/person_194.png: Predicted in 9515.307000 milli-seconds.
+Insan: 93%
+Insan: 89%
+Insan: 91%
+Insan: 89%
+Processing ./data/obj/person_076.png
+./data/obj/person_076.png: Predicted in 9183.360000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_118.png
+./data/obj/person_118.png: Predicted in 9234.971000 milli-seconds.
+Insan: 82%
+Insan: 91%
+Processing ./data/obj/crop_000003.png
+./data/obj/crop_000003.png: Predicted in 9258.238000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_080.png
+./data/obj/person_and_bike_080.png: Predicted in 9416.735000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/crop_000012.png
+./data/obj/crop_000012.png: Predicted in 9209.251000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/person_and_bike_084.png
+./data/obj/person_and_bike_084.png: Predicted in 9068.309000 milli-seconds.
+Insan: 83%
+Processing ./data/obj/person_and_bike_111.png
+./data/obj/person_and_bike_111.png: Predicted in 9145.494000 milli-seconds.
+Insan: 89%
+Processing ./data/obj/person_136.png
+./data/obj/person_136.png: Predicted in 9115.428000 milli-seconds.
+Insan: 95%
+Insan: 95%
+Processing ./data/obj/person_and_bike_086.png
+./data/obj/person_and_bike_086.png: Predicted in 9088.724000 milli-seconds.
+Insan: 83%
+Processing ./data/obj/person_040.png
+./data/obj/person_040.png: Predicted in 9295.092000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/person_and_bike_072.png
+./data/obj/person_and_bike_072.png: Predicted in 9332.560000 milli-seconds.
+Insan: 80%
+Processing ./data/obj/person_317.png
+./data/obj/person_317.png: Predicted in 9244.468000 milli-seconds.
+Insan: 64%
+Insan: 95%
+Insan: 96%
+Processing ./data/obj/person_and_bike_098.png
+./data/obj/person_and_bike_098.png: Predicted in 9272.651000 milli-seconds.
+Insan: 72%
+Processing ./data/obj/person_282.png
+./data/obj/person_282.png: Predicted in 9248.885000 milli-seconds.
+Insan: 89%
+Insan: 96%
+Processing ./data/obj/crop001521.png
+./data/obj/crop001521.png: Predicted in 9190.586000 milli-seconds.
+Insan: 51%
+Insan: 87%
+Insan: 90%
+Processing ./data/obj/person_032.png
+./data/obj/person_032.png: Predicted in 9306.239000 milli-seconds.
+Insan: 98%
+Processing ./data/obj/person_314.png
+./data/obj/person_314.png: Predicted in 9224.670000 milli-seconds.
+Insan: 95%
+Insan: 89%
+Processing ./data/obj/person_316.png
+./data/obj/person_316.png: Predicted in 9190.619000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_and_bike_105.png
+./data/obj/person_and_bike_105.png: Predicted in 9347.567000 milli-seconds.
+Processing ./data/obj/person_193.png
+./data/obj/person_193.png: Predicted in 9238.068000 milli-seconds.
+Insan: 95%
+Insan: 96%
+Insan: 91%
+Insan: 76%
+Processing ./data/obj/crop001715.png
+./data/obj/crop001715.png: Predicted in 9347.600000 milli-seconds.
+Insan: 90%
+Insan: 94%
+Processing ./data/obj/person_and_bike_136.png
+./data/obj/person_and_bike_136.png: Predicted in 9229.126000 milli-seconds.
+Insan: 80%
+Insan: 94%
+Insan: 96%
+Insan: 95%
+Insan: 94%
+Processing ./data/obj/person_and_bike_054.png
+./data/obj/person_and_bike_054.png: Predicted in 9315.637000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/person_and_bike_181.png
+./data/obj/person_and_bike_181.png: Predicted in 9208.086000 milli-seconds.
+Insan: 91%
+Insan: 93%
+Processing ./data/obj/crop001501.png
+./data/obj/crop001501.png: Predicted in 9151.767000 milli-seconds.
+Insan: 69%
+Insan: 58%
+Processing ./data/obj/person_and_bike_108.png
+./data/obj/person_and_bike_108.png: Predicted in 9245.392000 milli-seconds.
+Insan: 83%
+Processing ./data/obj/crop001512.png
+./data/obj/crop001512.png: Predicted in 9326.874000 milli-seconds.
+Insan: 94%
+Insan: 95%
+Insan: 94%
+Processing ./data/obj/person_036.png
+./data/obj/person_036.png: Predicted in 9270.437000 milli-seconds.
+Insan: 49%
+Insan: 36%
+Processing ./data/obj/crop001593.png
+./data/obj/crop001593.png: Predicted in 9198.949000 milli-seconds.
+Insan: 92%
+Insan: 92%
+Insan: 93%
+Insan: 92%
+Insan: 26%
+Processing ./data/obj/person_and_bike_082.png
+./data/obj/person_and_bike_082.png: Predicted in 9293.366000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_075.png
+./data/obj/person_075.png: Predicted in 9234.693000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/crop001682.png
+./data/obj/crop001682.png: Predicted in 9343.325000 milli-seconds.
+Insan: 90%
+Insan: 82%
+Insan: 90%
+Insan: 92%
+Insan: 88%
+Processing ./data/obj/crop001549.png
+./data/obj/crop001549.png: Predicted in 9235.161000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop001602.png
+./data/obj/crop001602.png: Predicted in 9355.248000 milli-seconds.
+Insan: 29%
+Processing ./data/obj/person_and_bike_028.png
+./data/obj/person_and_bike_028.png: Predicted in 9265.156000 milli-seconds.
+Insan: 95%
+Insan: 79%
+Insan: 92%
+Insan: 92%
+Processing ./data/obj/person_and_bike_042.png
+./data/obj/person_and_bike_042.png: Predicted in 9337.962000 milli-seconds.
+Insan: 90%
+Processing ./data/obj/person_and_bike_067.png
+./data/obj/person_and_bike_067.png: Predicted in 9326.953000 milli-seconds.
+Insan: 86%
+Processing ./data/obj/person_073.png
+./data/obj/person_073.png: Predicted in 9223.778000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_126.png
+./data/obj/person_and_bike_126.png: Predicted in 9230.013000 milli-seconds.
+Insan: 93%
+Insan: 93%
+Insan: 96%
+Insan: 90%
+Processing ./data/obj/person_085.png
+./data/obj/person_085.png: Predicted in 9361.885000 milli-seconds.
+Insan: 93%
+Insan: 94%
+Processing ./data/obj/crop_000001.png
+./data/obj/crop_000001.png: Predicted in 9193.549000 milli-seconds.
+Insan: 87%
+Insan: 84%
+Processing ./data/obj/person_and_bike_162.png
+./data/obj/person_and_bike_162.png: Predicted in 9290.585000 milli-seconds.
+Insan: 82%
+Processing ./data/obj/person_and_bike_085.png
+./data/obj/person_and_bike_085.png: Predicted in 9255.545000 milli-seconds.
+Insan: 44%
+Processing ./data/obj/person_and_bike_114.png
+./data/obj/person_and_bike_114.png: Predicted in 9324.867000 milli-seconds.
+Insan: 84%
+Processing ./data/obj/crop_000027.png
+./data/obj/crop_000027.png: Predicted in 9189.463000 milli-seconds.
+Insan: 94%
+Insan: 93%
+Processing ./data/obj/crop001533.png
+./data/obj/crop001533.png: Predicted in 9322.032000 milli-seconds.
+Insan: 75%
+Insan: 74%
+Insan: 92%
+Processing ./data/obj/person_028.png
+./data/obj/person_028.png: Predicted in 9347.226000 milli-seconds.
+Insan: 60%
+Processing ./data/obj/crop001511.png
+./data/obj/crop001511.png: Predicted in 9217.809000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop001684.png
+./data/obj/crop001684.png: Predicted in 9357.012000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_058.png
+./data/obj/person_058.png: Predicted in 9183.704000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/crop001633.png
+./data/obj/crop001633.png: Predicted in 9291.088000 milli-seconds.
+Insan: 87%
+Insan: 84%
+Insan: 93%
+Processing ./data/obj/crop_000019.png
+./data/obj/crop_000019.png: Predicted in 9315.735000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_189.png
+./data/obj/person_189.png: Predicted in 9201.819000 milli-seconds.
+Insan: 95%
+Insan: 94%
+Processing ./data/obj/person_293.png
+./data/obj/person_293.png: Predicted in 9398.199000 milli-seconds.
+Insan: 94%
+Insan: 93%
+Insan: 95%
+Processing ./data/obj/person_216.png
+./data/obj/person_216.png: Predicted in 9420.987000 milli-seconds.
+Insan: 73%
+Insan: 88%
+Processing ./data/obj/person_and_bike_133.png
+./data/obj/person_and_bike_133.png: Predicted in 9186.441000 milli-seconds.
+Insan: 95%
+Insan: 94%
+Processing ./data/obj/crop001661.png
+./data/obj/crop001661.png: Predicted in 9278.527000 milli-seconds.
+Insan: 54%
+Insan: 81%
+Processing ./data/obj/crop001520.png
+./data/obj/crop001520.png: Predicted in 9190.105000 milli-seconds.
+Insan: 96%
+Insan: 97%
+Processing ./data/obj/person_and_bike_161.png
+./data/obj/person_and_bike_161.png: Predicted in 9228.166000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop001522.png
+./data/obj/crop001522.png: Predicted in 9228.490000 milli-seconds.
+Insan: 93%
+Insan: 88%
+Insan: 73%
+Processing ./data/obj/person_248.png
+./data/obj/person_248.png: Predicted in 9310.849000 milli-seconds.
+Insan: 95%
+Insan: 96%
+Processing ./data/obj/crop_000007.png
+./data/obj/crop_000007.png: Predicted in 9231.617000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/crop001641.png
+./data/obj/crop001641.png: Predicted in 9352.412000 milli-seconds.
+Insan: 53%
+Processing ./data/obj/person_and_bike_189.png
+./data/obj/person_and_bike_189.png: Predicted in 9210.462000 milli-seconds.
+Insan: 90%
+Insan: 26%
+Processing ./data/obj/crop001660.png
+./data/obj/crop001660.png: Predicted in 9196.149000 milli-seconds.
+Insan: 77%
+Processing ./data/obj/person_and_bike_053.png
+./data/obj/person_and_bike_053.png: Predicted in 9108.791000 milli-seconds.
+Insan: 89%
+Processing ./data/obj/person_009.png
+./data/obj/person_009.png: Predicted in 9150.162000 milli-seconds.
+Insan: 29%
+Processing ./data/obj/crop001706.png
+./data/obj/crop001706.png: Predicted in 9172.004000 milli-seconds.
+Insan: 84%
+Processing ./data/obj/person_159.png
+./data/obj/person_159.png: Predicted in 9078.417000 milli-seconds.
+Insan: 92%
+Insan: 92%
+Insan: 93%
+Insan: 64%
+Processing ./data/obj/person_and_bike_047.png
+./data/obj/person_and_bike_047.png: Predicted in 9102.031000 milli-seconds.
+Insan: 84%
+Processing ./data/obj/person_190.png
+./data/obj/person_190.png: Predicted in 9136.174000 milli-seconds.
+Insan: 95%
+Insan: 95%
+Insan: 94%
+Insan: 94%
+Processing ./data/obj/crop_000018.png
+./data/obj/crop_000018.png: Predicted in 9152.209000 milli-seconds.
+Insan: 90%
+Processing ./data/obj/crop001504.png
+./data/obj/crop001504.png: Predicted in 9149.609000 milli-seconds.
+Insan: 94%
+Insan: 95%
+Processing ./data/obj/person_and_bike_088.png
+./data/obj/person_and_bike_088.png: Predicted in 9318.158000 milli-seconds.
+Insan: 87%
+Processing ./data/obj/person_290.png
+./data/obj/person_290.png: Predicted in 9346.011000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/person_134.png
+./data/obj/person_134.png: Predicted in 9390.653000 milli-seconds.
+Insan: 26%
+Insan: 30%
+Insan: 94%
+Insan: 84%
+Insan: 78%
+Insan: 90%
+Processing ./data/obj/crop_000026.png
+./data/obj/crop_000026.png: Predicted in 9236.707000 milli-seconds.
+Insan: 92%
+Insan: 92%
+Insan: 56%
+Processing ./data/obj/person_and_bike_107.png
+./data/obj/person_and_bike_107.png: Predicted in 9237.395000 milli-seconds.
+Processing ./data/obj/person_265.png
+./data/obj/person_265.png: Predicted in 9317.372000 milli-seconds.
+Insan: 92%
+Insan: 91%
+Insan: 93%
+Insan: 94%
+Processing ./data/obj/person_and_bike_095.png
+./data/obj/person_and_bike_095.png: Predicted in 9369.407000 milli-seconds.
+Insan: 86%
+Processing ./data/obj/person_250.png
+./data/obj/person_250.png: Predicted in 9367.178000 milli-seconds.
+Insan: 95%
+Insan: 92%
+Insan: 48%
+Processing ./data/obj/person_and_bike_091.png
+./data/obj/person_and_bike_091.png: Predicted in 9333.257000 milli-seconds.
+Insan: 54%
+Processing ./data/obj/person_and_bike_100.png
+./data/obj/person_and_bike_100.png: Predicted in 9387.633000 milli-seconds.
+Processing ./data/obj/person_and_bike_188.png
+./data/obj/person_and_bike_188.png: Predicted in 9351.755000 milli-seconds.
+Insan: 92%
+Insan: 94%
+Processing ./data/obj/person_188.png
+./data/obj/person_188.png: Predicted in 9275.702000 milli-seconds.
+Insan: 75%
+Insan: 93%
+Insan: 93%
+Insan: 92%
+Insan: 93%
+Insan: 50%
+Processing ./data/obj/person_and_bike_112.png
+./data/obj/person_and_bike_112.png: Predicted in 9227.079000 milli-seconds.
+Insan: 55%
+Insan: 66%
+Processing ./data/obj/person_and_bike_071.png
+./data/obj/person_and_bike_071.png: Predicted in 9286.966000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_and_bike_177.png
+./data/obj/person_and_bike_177.png: Predicted in 9259.607000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_051.png
+./data/obj/person_051.png: Predicted in 9296.840000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_160.png
+./data/obj/person_and_bike_160.png: Predicted in 9264.743000 milli-seconds.
+Insan: 83%
+Processing ./data/obj/crop_000002.png
+./data/obj/crop_000002.png: Predicted in 9357.103000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_053.png
+./data/obj/person_053.png: Predicted in 9479.697000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/person_010.png
+./data/obj/person_010.png: Predicted in 9245.209000 milli-seconds.
+Insan: 83%
+Insan: 95%
+Processing ./data/obj/person_and_bike_027.png
+./data/obj/person_and_bike_027.png: Predicted in 9208.602000 milli-seconds.
+Insan: 89%
+Insan: 83%
+Processing ./data/obj/person_255.png
+./data/obj/person_255.png: Predicted in 9220.014000 milli-seconds.
+Insan: 96%
+Insan: 94%
+Processing ./data/obj/person_and_bike_093.png
+./data/obj/person_and_bike_093.png: Predicted in 9264.441000 milli-seconds.
+Insan: 70%
+Processing ./data/obj/crop001723.png
+./data/obj/crop001723.png: Predicted in 9223.376000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_and_bike_103.png
+./data/obj/person_and_bike_103.png: Predicted in 9318.403000 milli-seconds.
+Insan: 54%
+Processing ./data/obj/person_104.png
+./data/obj/person_104.png: Predicted in 9260.337000 milli-seconds.
+Insan: 96%
+Insan: 96%
+Processing ./data/obj/person_and_bike_087.png
+./data/obj/person_and_bike_087.png: Predicted in 9355.173000 milli-seconds.
+Insan: 79%
+Processing ./data/obj/person_089.png
+./data/obj/person_089.png: Predicted in 9382.238000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/crop001545.png
+./data/obj/crop001545.png: Predicted in 9393.267000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop_000009.png
+./data/obj/crop_000009.png: Predicted in 9227.816000 milli-seconds.
+Insan: 88%
+Processing ./data/obj/person_236.png
+./data/obj/person_236.png: Predicted in 9366.356000 milli-seconds.
+Insan: 80%
+Insan: 93%
+Insan: 93%
+Insan: 95%
+Insan: 78%
+Insan: 91%
+Insan: 93%
+Processing ./data/obj/person_and_bike_056.png
+./data/obj/person_and_bike_056.png: Predicted in 9213.865000 milli-seconds.
+Insan: 91%
+Processing ./data/obj/crop001704.png
+./data/obj/crop001704.png: Predicted in 9271.984000 milli-seconds.
+Insan: 44%
+Processing ./data/obj/person_015.png
+./data/obj/person_015.png: Predicted in 9247.024000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_065.png
+./data/obj/person_and_bike_065.png: Predicted in 9302.474000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_191.png
+./data/obj/person_191.png: Predicted in 9484.508000 milli-seconds.
+Insan: 93%
+Insan: 90%
+Insan: 93%
+Insan: 94%
+Insan: 93%
+Insan: 94%
+Processing ./data/obj/person_and_bike_090.png
+./data/obj/person_and_bike_090.png: Predicted in 9236.499000 milli-seconds.
+Insan: 56%
+Processing ./data/obj/person_107.png
+./data/obj/person_107.png: Predicted in 9314.904000 milli-seconds.
+Insan: 95%
+Insan: 36%
+Processing ./data/obj/person_and_bike_050.png
+./data/obj/person_and_bike_050.png: Predicted in 9353.692000 milli-seconds.
+Insan: 89%
+Processing ./data/obj/person_and_bike_096.png
+./data/obj/person_and_bike_096.png: Predicted in 9342.668000 milli-seconds.
+Insan: 30%
+Processing ./data/obj/person_246.png
+./data/obj/person_246.png: Predicted in 9331.740000 milli-seconds.
+Insan: 39%
+Insan: 79%
+Processing ./data/obj/person_and_bike_104.png
+./data/obj/person_and_bike_104.png: Predicted in 9388.775000 milli-seconds.
+Insan: 73%
+Processing ./data/obj/person_088.png
+./data/obj/person_088.png: Predicted in 9197.432000 milli-seconds.
+Insan: 96%
+Insan: 66%
+Insan: 87%
+Insan: 92%
+Processing ./data/obj/person_and_bike_043.png
+./data/obj/person_and_bike_043.png: Predicted in 9176.272000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/crop001514.png
+./data/obj/crop001514.png: Predicted in 9273.326000 milli-seconds.
+Insan: 71%
+Insan: 95%
+Insan: 96%
+Processing ./data/obj/person_013.png
+./data/obj/person_013.png: Predicted in 9192.889000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/crop_000021.png
+./data/obj/crop_000021.png: Predicted in 9345.786000 milli-seconds.
+Insan: 84%
+Processing ./data/obj/person_and_bike_063.png
+./data/obj/person_and_bike_063.png: Predicted in 9243.802000 milli-seconds.
+Insan: 89%
+Processing ./data/obj/person_303.png
+./data/obj/person_303.png: Predicted in 9401.061000 milli-seconds.
+Insan: 92%
+Insan: 84%
+Insan: 93%
+Insan: 94%
+Insan: 91%
+Processing ./data/obj/person_039.png
+./data/obj/person_039.png: Predicted in 9315.389000 milli-seconds.
+Insan: 33%
+Processing ./data/obj/person_222.png
+./data/obj/person_222.png: Predicted in 9328.076000 milli-seconds.
+Insan: 89%
+Insan: 92%
+Processing ./data/obj/person_100.png
+./data/obj/person_100.png: Predicted in 9290.486000 milli-seconds.
+Insan: 95%
+Insan: 90%
+Processing ./data/obj/person_337.png
+./data/obj/person_337.png: Predicted in 9391.311000 milli-seconds.
+Insan: 94%
+Insan: 93%
+Insan: 94%
+Insan: 89%
+Insan: 94%
+Processing ./data/obj/crop_000023.png
+./data/obj/crop_000023.png: Predicted in 9216.948000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_164.png
+./data/obj/person_and_bike_164.png: Predicted in 9267.879000 milli-seconds.
+Processing ./data/obj/person_and_bike_069.png
+./data/obj/person_and_bike_069.png: Predicted in 9549.450000 milli-seconds.
+Insan: 92%
+Processing ./data/obj/crop001574.png
+./data/obj/crop001574.png: Predicted in 9371.965000 milli-seconds.
+Processing ./data/obj/person_and_bike_113.png
+./data/obj/person_and_bike_113.png: Predicted in 9377.963000 milli-seconds.
+Processing ./data/obj/person_210.png
+./data/obj/person_210.png: Predicted in 9303.578000 milli-seconds.
+Insan: 94%
+Insan: 94%
+Processing ./data/obj/person_and_bike_099.png
+./data/obj/person_and_bike_099.png: Predicted in 9300.098000 milli-seconds.
+Insan: 65%
+Processing ./data/obj/crop001725.png
+./data/obj/crop001725.png: Predicted in 9309.160000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_063.png
+./data/obj/person_063.png: Predicted in 9175.356000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/person_315.png
+./data/obj/person_315.png: Predicted in 9362.362000 milli-seconds.
+Insan: 93%
+Insan: 94%
+Insan: 91%
+Processing ./data/obj/person_and_bike_159.png
+./data/obj/person_and_bike_159.png: Predicted in 9297.165000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_and_bike_163.png
+./data/obj/person_and_bike_163.png: Predicted in 9406.370000 milli-seconds.
+Insan: 66%
+Processing ./data/obj/person_and_bike_073.png
+./data/obj/person_and_bike_073.png: Predicted in 9363.013000 milli-seconds.
+Processing ./data/obj/person_065.png
+./data/obj/person_065.png: Predicted in 9234.495000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_058.png
+./data/obj/person_and_bike_058.png: Predicted in 9375.694000 milli-seconds.
+Insan: 26%
+Processing ./data/obj/person_and_bike_057.png
+./data/obj/person_and_bike_057.png: Predicted in 9188.378000 milli-seconds.
+Insan: 91%
+Processing ./data/obj/person_272.png
+./data/obj/person_272.png: Predicted in 9349.764000 milli-seconds.
+Insan: 90%
+Insan: 89%
+Insan: 91%
+Insan: 94%
+Processing ./data/obj/crop_000013.png
+./data/obj/crop_000013.png: Predicted in 9314.874000 milli-seconds.
+Insan: 47%
+Processing ./data/obj/person_and_bike_006.png
+./data/obj/person_and_bike_006.png: Predicted in 9371.524000 milli-seconds.
+Insan: 90%
+Processing ./data/obj/crop001634.png
+./data/obj/crop001634.png: Predicted in 9301.828000 milli-seconds.
+Insan: 31%
+Processing ./data/obj/person_and_bike_089.png
+./data/obj/person_and_bike_089.png: Predicted in 9296.334000 milli-seconds.
+Insan: 93%
+Processing ./data/obj/person_and_bike_109.png
+./data/obj/person_and_bike_109.png: Predicted in 9218.874000 milli-seconds.
+Insan: 89%
+Processing ./data/obj/crop001653.png
+./data/obj/crop001653.png: Predicted in 9275.607000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_and_bike_070.png
+./data/obj/person_and_bike_070.png: Predicted in 9368.879000 milli-seconds.
+Insan: 82%
+Processing ./data/obj/person_and_bike_141.png
+./data/obj/person_and_bike_141.png: Predicted in 9258.850000 milli-seconds.
+Insan: 90%
+Insan: 70%
+Insan: 55%
+Processing ./data/obj/person_and_bike_077.png
+./data/obj/person_and_bike_077.png: Predicted in 9300.958000 milli-seconds.
+Insan: 84%
+Processing ./data/obj/crop001719.png
+./data/obj/crop001719.png: Predicted in 9299.422000 milli-seconds.
+Insan: 90%
+Insan: 92%
+Insan: 52%
+Processing ./data/obj/person_132.png
+./data/obj/person_132.png: Predicted in 9458.234000 milli-seconds.
+Insan: 93%
+Insan: 92%
+Insan: 88%
+Insan: 91%
+Insan: 94%
+Insan: 87%
+Processing ./data/obj/crop001664.png
+./data/obj/crop001664.png: Predicted in 9178.420000 milli-seconds.
+Processing ./data/obj/person_and_bike_106.png
+./data/obj/person_and_bike_106.png: Predicted in 9238.091000 milli-seconds.
+Insan: 85%
+Processing ./data/obj/person_105.png
+./data/obj/person_105.png: Predicted in 9195.361000 milli-seconds.
+Insan: 95%
+Insan: 96%
+Processing ./data/obj/person_052.png
+./data/obj/person_052.png: Predicted in 9272.195000 milli-seconds.
+Insan: 79%
+Processing ./data/obj/person_318.png
+./data/obj/person_318.png: Predicted in 9455.786000 milli-seconds.
+Insan: 96%
+Insan: 91%
+Processing ./data/obj/person_070.png
+./data/obj/person_070.png: Predicted in 9364.314000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/person_and_bike_035.png
+./data/obj/person_and_bike_035.png: Predicted in 9312.307000 milli-seconds.
+Insan: 91%
+Insan: 95%
+Processing ./data/obj/person_249.png
+./data/obj/person_249.png: Predicted in 9330.260000 milli-seconds.
+Insan: 94%
+Insan: 92%
+Insan: 93%
+Insan: 91%
+Processing ./data/obj/person_094.png
+./data/obj/person_094.png: Predicted in 9270.594000 milli-seconds.
+Insan: 86%
+Processing ./data/obj/person_and_bike_064.png
+./data/obj/person_and_bike_064.png: Predicted in 9363.287000 milli-seconds.
+Insan: 87%
+Processing ./data/obj/person_135.png
+./data/obj/person_135.png: Predicted in 9397.655000 milli-seconds.
+Insan: 92%
+Insan: 95%
+Insan: 94%
+Processing ./data/obj/crop001658.png
+./data/obj/crop001658.png: Predicted in 9225.616000 milli-seconds.
+Insan: 93%
+Insan: 93%
+Insan: 93%
+Processing ./data/obj/person_218.png
+./data/obj/person_218.png: Predicted in 9322.035000 milli-seconds.
+Insan: 92%
+Insan: 41%
+Processing ./data/obj/person_186.png
+./data/obj/person_186.png: Predicted in 9383.389000 milli-seconds.
+Insan: 94%
+Insan: 96%
+Processing ./data/obj/person_122.png
+./data/obj/person_122.png: Predicted in 9562.967000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/crop001654.png
+./data/obj/crop001654.png: Predicted in 9350.711000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/person_and_bike_049.png
+./data/obj/person_and_bike_049.png: Predicted in 9256.781000 milli-seconds.
+Insan: 94%
+Processing ./data/obj/person_200.png
+./data/obj/person_200.png: Predicted in 9205.263000 milli-seconds.
+Insan: 93%
+Insan: 90%
+Insan: 56%
+Insan: 86%
+Insan: 79%
+Insan: 91%
+Insan: 88%
+Insan: 92%
+Insan: 89%
+Insan: 92%
+Insan: 57%
+Insan: 91%
+Insan: 75%
+Processing ./data/obj/person_and_bike_153.png
+./data/obj/person_and_bike_153.png: Predicted in 9267.592000 milli-seconds.
+Insan: 74%
+Insan: 95%
+Processing ./data/obj/person_099.png
+./data/obj/person_099.png: Predicted in 9339.917000 milli-seconds.
+Insan: 96%
+Processing ./data/obj/person_090.png
+./data/obj/person_090.png: Predicted in 9434.056000 milli-seconds.
+Insan: 95%
+Processing ./data/obj/crop001604.png
+./data/obj/crop001604.png: Predicted in 9316.046000 milli-seconds.
+Insan: 96%
