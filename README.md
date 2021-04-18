@@ -133,8 +133,12 @@ Total Detection Time: 20.000000 Seconds
 
 
 ----
+
+Training number #8.5k
+
+
  detections_count = 591, unique_truth_count = 589  
-class_id = 0, name = Insan, 	 ap = 81.72 % 
+ class_id = 0, name = Insan, 	 ap = 81.72 % 
  for thresh = 0.25, precision = 0.97, recall = 0.84, F1-score = 0.90 
  for thresh = 0.25, TP = 497, FP = 14, FN = 92, average IoU = 81.09 % 
 
@@ -143,11 +147,47 @@ Total Detection Time: 21.000000 Seconds
 ----
 Training number # 10k
 
-
- detections_count = 562, unique_truth_count = 589  
+detections_count = 562, unique_truth_count = 589  
 class_id = 0, name = Insan, 	 ap = 81.60 % 
  for thresh = 0.25, precision = 0.98, recall = 0.82, F1-score = 0.89 
- for thresh = 0.25, TP = 482, FP = 8, FN = 107, average IoU = 81.75 % 
 
- mean average precision (mAP) = 0.816024, or 81.60 % 
+for thresh = 0.25, TP = 482, FP = 8, FN = 107, average IoU = 81.75 % 
+
+mean average precision (mAP) = 0.816024, or 81.60 % 
 Total Detection Time: 20.000000 Seconds
+-----
+Test Results
+
+
+1K 77.04 %  average IoU = 48.95 % 
+2K. 87.46 %   average IoU = 63.80 % 
+5K 89.51 %  average IoU = 74.03 % 
+10K 89.07 %  average IoU = 75.77 % 
+20K 89.18 %  average IoU = 75.85 % 
+30K TH 90.04 %  average IoU = 76.46 % 
+TH =0.5 90.04 % average IoU = 77.78 % 
+TH=0.75 90.04 %  average IoU = 79.77 % 
+TH=1 90.04 %  average IoU = 0.00 % 
+
+
+------- 832 TEST
+1K 61.15 %  average IoU = 39.16 % 
+2K 70.36 %  average IoU = 48.11 % 
+5K 78.05 %   average IoU = 62.28 % 
+10K 79.60 % average IoU = 64.81 % 
+20K 77.91 %   average IoU = 63.98 % 
+30K 76.94 %   average IoU = 65.79 % 
+
+-- Some results
+
+
+![person_265 png](https://user-images.githubusercontent.com/60233157/115144633-65c56900-a056-11eb-8aeb-888751af3097.png) 
+![person_337 png](https://user-images.githubusercontent.com/60233157/115144560-fcddf100-a055-11eb-9400-4eca70844d89.png)![person_272 png](https://user-images.githubusercontent.com/60233157/115144634-68c05980-a056-11eb-87ba-a311bd403ed4.png)
+
+
+![crop_000002 png](https://user-images.githubusercontent.com/60233157/115144496-ae305700-a055-11eb-8d2f-22a22f8c26fd.png)![person_037 png](https://user-images.githubusercontent.com/60233157/115144507-b7b9bf00-a055-11eb-8920-e5866cb5d55c.png)
+
+![person_085 png](https://user-images.githubusercontent.com/60233157/115144516-be483680-a055-11eb-9b20-16d545c38cc9.png)![person_and_bike_136 png](https://user-images.githubusercontent.com/60233157/115144538-d7e97e00-a055-11eb-9408-4620f9d2e39b.png)![person_249 png](https://user-images.githubusercontent.com/60233157/115144551-eafc4e00-a055-11eb-8061-7b533120f18b.png)
+
+
+
